@@ -1,0 +1,27 @@
+.bg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+  height: 100vh;
+}
+.card {
+  text-align: center;
+}
+span {
+  color: #c20a72;
+  font-size: 30px;
+  font-weight: bold;
+}
+.parag {
+  font-size: 12px;
+}
+.button {
+  background-color: blue;
+  border: 0px solid;
+  border-radius: 10px;
+  cursor: pointer;
+  outline: none;
+  color: #ffffff;
+  padding: 10px;
+}
